@@ -1,5 +1,0 @@
-func foo()
-        begin
-        number a <- a
-        end
-        

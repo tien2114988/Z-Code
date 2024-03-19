@@ -1,7 +1,0 @@
-func foo(number c)
-        begin
-        begin
-        abc()
-        end
-        end
-        

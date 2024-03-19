@@ -1,1 +1,0 @@
-Program([VarDecl(Id(True), BoolType, None, BinaryOp(+, Id(a), UnaryOp(not, Id(b))))])

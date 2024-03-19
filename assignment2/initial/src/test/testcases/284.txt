@@ -1,2 +1,0 @@
-string abc[1] <- [[1,2,8],[2,"asd",true,false]] 
-        

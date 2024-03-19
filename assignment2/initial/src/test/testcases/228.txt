@@ -1,2 +1,0 @@
-number a <- [1,["tine",2,true],4]
-        

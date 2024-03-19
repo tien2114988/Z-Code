@@ -1,2 +1,0 @@
-bool True <- a + not b
-        

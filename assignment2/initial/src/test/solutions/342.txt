@@ -1,1 +1,0 @@
-Program([FuncDecl(Id(_23), [VarDecl(Id(a), NumberType, None, None), VarDecl(Id(b), BoolType, None, None)], None)])

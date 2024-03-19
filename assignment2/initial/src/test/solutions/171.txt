@@ -1,2 +1,0 @@
-func,main,(,),begin,
-,string,s,<-,writeString,(,Unclosed String: Hello this is a '"test'")

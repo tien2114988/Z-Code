@@ -1,1 +1,0 @@
-Program([VarDecl(Id(a), ArrayType([1.0, 2.4, 3.0], StringType), None, None)])

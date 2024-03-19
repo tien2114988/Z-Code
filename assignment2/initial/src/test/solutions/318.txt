@@ -1,1 +1,0 @@
-Program([VarDecl(Id(__asd), None, dynamic, BinaryOp(or, BinaryOp(and, Id(a), NumLit(1.23e-121)), BooleanLit(True)))])

@@ -1,4 +1,0 @@
-func main() begin
-        abc["rtien"] <- [[1,2,8],[2,"asd",true,false]] 
-        end
-        

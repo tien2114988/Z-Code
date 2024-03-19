@@ -1,4 +1,0 @@
-number,a,
-,string,_abc23,<-,ngyen dai tin,
-,
-,bool,Ad_2k3c,<-,false,<EOF>

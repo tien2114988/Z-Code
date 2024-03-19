@@ -1,5 +1,0 @@
-func main(string a) begin
-        f()[0] <- 1
-        return
-        end  
-        

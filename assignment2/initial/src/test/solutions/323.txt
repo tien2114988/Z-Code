@@ -1,1 +1,0 @@
-Program([VarDecl(Id(False), NumberType, None, ArrayCell(CallExpr(Id(abcd), []), [BinaryOp(>=, NumLit(3.0), NumLit(1.0))]))])

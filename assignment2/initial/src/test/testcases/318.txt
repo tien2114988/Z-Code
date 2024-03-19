@@ -1,2 +1,0 @@
-dynamic __asd <- a and 123.e-123 or true
-        

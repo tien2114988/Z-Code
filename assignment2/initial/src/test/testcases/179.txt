@@ -1,6 +1,0 @@
-number A_adh0239[2,3,4,2] <- ["nguyen dai tien", 1, [1,2,3], abc(abc, _cde), _cde()]
-            
-            if ((abc+e-2)) 
-            begin
-                if(true) return ## aefiefei
-            end

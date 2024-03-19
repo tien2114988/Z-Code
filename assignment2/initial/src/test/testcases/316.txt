@@ -1,2 +1,0 @@
-number a <- a+b-1
-        

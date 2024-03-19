@@ -1,3 +1,0 @@
-string a <- [[True], abc()["True"]] ##bachd
-        number b <- a==c
-        

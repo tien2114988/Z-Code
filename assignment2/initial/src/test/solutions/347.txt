@@ -1,1 +1,0 @@
-Program([FuncDecl(Id(A_23), [], Return(BinaryOp(+, NumLit(1.0), UnaryOp(-, NumLit(2.0)))))])

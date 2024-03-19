@@ -1,2 +1,0 @@
-number a <-  not a and -2 <= 4 or 6 ... a[1,2,3] + a[b(2,3)] - a[b(2,3),"tien"] != a[b(2,3)] * abc(3) / false % true
-        

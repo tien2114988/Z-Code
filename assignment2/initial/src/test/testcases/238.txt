@@ -1,2 +1,0 @@
-number a <- tieng(1+2,abc(123),"kk",a,true,a[1,2]) + tien()
-        

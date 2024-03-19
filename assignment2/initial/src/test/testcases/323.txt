@@ -1,2 +1,0 @@
-number False <- abcd()[3>=1]
-        

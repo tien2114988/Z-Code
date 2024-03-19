@@ -1,5 +1,0 @@
-func foo(number c)
-        begin
-            if (a+b) a <- b + 1
-        end
-        

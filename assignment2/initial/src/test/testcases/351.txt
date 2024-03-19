@@ -1,6 +1,0 @@
-func foo(number c)
-        begin
-        c <- 2
-        return c
-        end
-        
