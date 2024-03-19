@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(erDI), [], Return()), VarDecl(Id(UR_), StringType, None, None), FuncDecl(Id(jf0), [VarDecl(Id(x97), NumberType, None, None)], Return()), FuncDecl(Id(Sn99), [VarDecl(Id(Cmoi), ArrayType([11.99], BoolType), None, None)], Block([For(Id(Vc), StringLit(OwBIM), Id(TrtK), Break), Return(BooleanLit(False)), Break]))])

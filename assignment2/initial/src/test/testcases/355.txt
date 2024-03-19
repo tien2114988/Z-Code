@@ -1,0 +1,5 @@
+func foo(number c)
+        begin
+        abc(1!=2,2>3)
+        end
+        

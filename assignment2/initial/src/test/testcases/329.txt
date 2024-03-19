@@ -1,0 +1,5 @@
+string a ##bachd
+        
+        
+        number b <- a==c
+        

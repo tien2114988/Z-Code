@@ -1,0 +1,14 @@
+
+number Ews
+bool DLpA[34.9,22.73]
+func ZN (bool aB, number xID)
+	begin
+		begin
+			Rb(false)
+		end
+		return "lbt"
+		gP_[BDQ, 89.86] <- true
+	end
+func aXju (bool yq[38.05,42.04])
+	return 65.15
+

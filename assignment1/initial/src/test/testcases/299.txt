@@ -1,0 +1,75 @@
+number a
+        string _abc23 <- "ngyen dai tin"
+        
+        bool  Ad_2k3c <- false
+        
+        var AHDHD <- true
+        
+         
+        dynamic k34533 <- 12.002E+234
+        
+        number A_adh0239[2,3,4,2] <- ["nguyen dai tien", 1, [1,2,3], abc(abc, _cde), _cde()]
+        
+        
+        string __abcd[1]
+        
+        bool a[1,2,3] <- a/ not 2 * (3 == b % 4) ... (b == (c != d and 3 + 4 + 5 or 234) ... -abc(abc(), "nguyenditien")[cde(),"nguyen dait ein", true, false] )
+        
+        func _adhi24()
+        func _afhi34(number abc, string cad, bool dhsj)
+        
+        
+        func main() begin
+            begin
+            end
+            
+            number r
+            number s <- not - a
+            r <- 2.0
+            number a[5,2,2]
+            number b[5]
+            s <- r * r * 3.14
+            a[0] <- s + true - false
+            
+            number A_adh0239[2,3,4,2] <- ["nguyen dai tien", 1, [1,2,3], abc(abc, _cde), _cde()]
+            
+            if ((abc+e-2)) 
+            begin
+                if(true) return ## aefiefei
+            end
+            
+            elif("nguye daiten") begin
+                if(abc+234.2E34 * - 4e-2 ) e<-1+2
+                elif(1) number k <- 2-2-3-4-4
+                elif(abc) return ----2
+                
+                
+            end ## aefiefei 
+            
+            else 
+            begin
+                if(abc+234.2E34 * - 4e-2 ) continue
+                else break
+                
+                if(abc(1,tine,"tien",a[1,2,3])) 
+                ngd(a["tien",12,bcd()],23,true,false,"tieh")
+            end
+            ## diatie
+            
+            begin
+                for _sfs until abc() by abc()[1,2,3] begin
+                    for i until abc()[1+2,2,3] by a[1] 
+                    begin
+                        if(true) begin
+                            for i until i>1 by 3 break
+                        end
+                    end
+                end
+            end
+            return abc
+        end 
+        
+        func abc(string abc, number acdhi[1,2]) 
+        return true
+        
+        

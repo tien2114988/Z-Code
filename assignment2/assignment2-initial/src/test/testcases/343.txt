@@ -1,0 +1,2 @@
+func _23(bool b) return
+        

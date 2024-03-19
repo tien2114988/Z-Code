@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), StringType, None, ArrayLit(ArrayLit(Id(True)), ArrayCell(CallExpr(Id(abc), []), [StringLit(True)]))), VarDecl(Id(b), NumberType, None, BinaryOp(==, Id(a), Id(c)))])

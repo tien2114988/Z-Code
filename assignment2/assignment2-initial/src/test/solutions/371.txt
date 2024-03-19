@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), NumberType, None, None), VarDecl(Id(b), StringType, None, None), FuncDecl(Id(isPrime), [VarDecl(Id(x), NumberType, None, None)], Block([AssignStmt(Id(a), StringLit(bcdsd))]))])

@@ -1,0 +1,7 @@
+
+string isp <- false
+number ReM <- true
+var Nr <- "F"
+func Cw ()
+	return "yllkw"
+

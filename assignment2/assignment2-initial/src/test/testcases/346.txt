@@ -1,0 +1,2 @@
+func A_23() return not abc() 
+        

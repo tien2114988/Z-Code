@@ -1,0 +1,2 @@
+string a <- [true, True, abc()]
+        

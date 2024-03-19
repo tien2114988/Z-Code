@@ -1,0 +1,6 @@
+
+func Ot (number qr[58.25,12.82], string XOe, number kbgL)	return
+func uA0H ()
+	return "tAB"
+
+dynamic NZ

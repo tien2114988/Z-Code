@@ -1,0 +1,9 @@
+func foo()
+        begin
+            begin 
+                for abcd until abcd >= efgh by 1233 
+                a <- true
+            end 
+            
+        end
+        

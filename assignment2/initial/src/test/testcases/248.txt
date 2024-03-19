@@ -1,0 +1,3 @@
+func foo(number a, string b, bool b)
+        number a
+        

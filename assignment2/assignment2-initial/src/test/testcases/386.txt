@@ -1,0 +1,5 @@
+
+func jD (bool IF[52.75])	return 63.64
+number WsC[39.72,17.78,54.43] <- 70.13
+func nr ()	return
+

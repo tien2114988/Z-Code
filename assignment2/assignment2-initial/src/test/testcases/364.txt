@@ -1,0 +1,15 @@
+func foo()
+        begin
+            begin 
+            number a
+            end 
+            if (a+c) 
+            begin
+            a[1,2] <- 4
+            end 
+            elif (a==b) 
+            abc()
+        end
+        
+        
+        

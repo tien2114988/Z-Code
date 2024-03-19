@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(A_23), [], Return(UnaryOp(not, CallExpr(Id(abc), []))))])

@@ -1,0 +1,5 @@
+
+func AjL (number OH[92.65,96.82])	begin
+		Qph <- R9n
+		string aakY <- 41.19
+	end

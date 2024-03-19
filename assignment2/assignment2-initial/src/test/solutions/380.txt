@@ -1,0 +1,1 @@
+Program([VarDecl(Id(nO), None, var, NumLit(67.98)), VarDecl(Id(yF), StringType, None, NumLit(60.76)), FuncDecl(Id(Mo), [], Return()), VarDecl(Id(PyH), None, dynamic, None)])

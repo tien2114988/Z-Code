@@ -1,0 +1,8 @@
+func foo(string s)
+        begin
+                for i until not i by -i
+                begin
+                if(a) string b
+                end
+        end
+        

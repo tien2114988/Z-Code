@@ -1,0 +1,5 @@
+
+func B6C3 (number o9Z[69.24], string pmmI)	return false
+
+func LqCI (number ak[26.25,37.22], number tj[93.09], number gsq[10.54])	return
+

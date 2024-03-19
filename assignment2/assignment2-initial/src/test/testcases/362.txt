@@ -1,0 +1,8 @@
+func foo(string s)
+        begin
+                for i until i != "i" by i ... "k" 
+                begin
+                continue
+                end
+        end
+        

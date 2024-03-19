@@ -1,0 +1,6 @@
+func foo(number c)
+        begin
+        number a <- a
+        c <- 2
+        end
+        

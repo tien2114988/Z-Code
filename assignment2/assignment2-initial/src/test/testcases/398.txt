@@ -1,0 +1,4 @@
+
+func LSf (bool bb, number TqA[34.73,9.9,28.48])	return
+dynamic hjZ
+var nUCI <- 9.84

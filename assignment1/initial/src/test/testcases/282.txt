@@ -1,0 +1,20 @@
+func isPrime(number x)
+                func main() ##abcdieh
+                begin
+                    number x <- 2 ##abcdieh
+                    if (isPrime(x)) writeString("Yes")
+                    ##abcdieh
+                    else writeString("No")
+                end
+                func isPrime(number x)
+                begin
+                    if (x <= 1) return false
+                    ##abcdieh
+                    var i <- [2+3,4]
+                    for i until i > (x / 2) by 1
+                    begin
+                    if (x % i = 0) return false
+                    end
+                    return (2+3)*a[1,2,3]
+                end
+        

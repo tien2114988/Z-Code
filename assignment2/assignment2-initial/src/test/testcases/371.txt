@@ -1,0 +1,10 @@
+number a
+        string b
+        func isPrime(number x)
+                    begin
+                        ## bahc
+                        ## aefgu
+                        a <- "bcdsd"
+                        ## hsh
+                    end
+        

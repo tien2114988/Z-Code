@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(AjL), [VarDecl(Id(OH), ArrayType([92.65, 96.82], NumberType), None, None)], Block([AssignStmt(Id(Qph), Id(R9n)), VarDecl(Id(aakY), StringType, None, NumLit(41.19))]))])

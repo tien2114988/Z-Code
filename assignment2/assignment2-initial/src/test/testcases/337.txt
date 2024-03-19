@@ -1,0 +1,2 @@
+
+func Qu (bool Jw[9.22,67.94,19.3], string bMv[44.19,54.7], number B8DX)	return

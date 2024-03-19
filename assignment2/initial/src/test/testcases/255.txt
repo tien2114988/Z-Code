@@ -1,0 +1,6 @@
+func foo(number a, string b, bool b)
+        begin
+            if (a+b) a <- b + 1 
+            elif (a+c) a[1,2] <- 4
+        end
+        

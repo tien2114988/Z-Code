@@ -1,0 +1,4 @@
+
+func LK (bool bnBM[67.1,10.48], number yj)	return 30.05
+func gT (bool Cm[97.42,84.75,31.19])	begin
+	end

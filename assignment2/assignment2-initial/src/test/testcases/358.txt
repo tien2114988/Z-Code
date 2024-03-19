@@ -1,0 +1,14 @@
+func foo()
+        begin
+            if (a>=b) number a
+            
+            elif (a<=c) 
+            
+            a[1,2] <- 4
+            
+            elif (a...b) 
+            abc()
+            
+            
+        end
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo), [], Block([Block([For(Id(abcd), BinaryOp(>=, Id(abcd), Id(efgh)), NumLit(1233.0), AssignStmt(Id(a), BooleanLit(True)))])]))])

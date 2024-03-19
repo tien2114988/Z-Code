@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(foo), [VarDecl(Id(s), StringType, None, None)], Block([For(Id(i), UnaryOp(not, Id(i)), UnaryOp(-, Id(i)), Block([If((Id(a), VarDecl(Id(b), StringType, None, None)), [], None)]))]))])

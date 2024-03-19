@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(oFyz), [], Block([VarDecl(Id(GYt6), StringType, None, None)]))])

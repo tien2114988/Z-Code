@@ -1,0 +1,6 @@
+
+var nO <- 67.98
+string yF <- 60.76
+func Mo ()
+	return
+dynamic PyH

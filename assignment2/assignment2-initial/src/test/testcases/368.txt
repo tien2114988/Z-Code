@@ -1,0 +1,7 @@
+func isPrime(number x)
+                    begin
+                        ## bahc
+                        ## aefgu
+                        ## hsh
+                    end
+        

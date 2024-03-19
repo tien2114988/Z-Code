@@ -1,0 +1,1 @@
+Program([VarDecl(Id(b), BoolType, None, NumLit(162.3))])

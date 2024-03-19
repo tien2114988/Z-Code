@@ -1,0 +1,1 @@
+Program([VarDecl(Id(_A2a), None, var, BinaryOp(%, BinaryOp(*, BinaryOp(*, Id(a), NumLit(1.23e-121)), BooleanLit(False)), StringLit(eitn)))])

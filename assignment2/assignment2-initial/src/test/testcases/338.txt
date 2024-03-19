@@ -1,0 +1,6 @@
+
+func oFyz ()
+	begin
+		string GYt6
+	end
+

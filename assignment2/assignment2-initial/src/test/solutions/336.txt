@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(Ska), [], Return()), FuncDecl(Id(JJ84), [], Return()), VarDecl(Id(ssX), ArrayType([11.76], BoolType), None, None), FuncDecl(Id(wt), [VarDecl(Id(Kec), BoolType, None, None), VarDecl(Id(Wa), BoolType, None, None)], Return(NumLit(14.33))), VarDecl(Id(xGo5), None, dynamic, Id(tU))])

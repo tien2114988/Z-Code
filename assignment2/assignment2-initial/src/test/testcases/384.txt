@@ -1,0 +1,13 @@
+
+number Y4[24.14] <- RB8f
+bool O_[22.61] <- true
+func dGq ()
+	begin
+		lnA <- 28.37
+		continue
+	end
+func OB (string roL[42.67,47.25], string usV6[28.79,40.2])
+	return
+
+func RtWQ (string Ri[55.26], number sC6[95.41,57.64,63.79])
+	return

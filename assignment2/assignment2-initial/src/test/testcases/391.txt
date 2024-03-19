@@ -1,0 +1,8 @@
+
+string oNN[83.45]
+bool yd[12.34] <- false
+func i4 ()
+	begin
+		eD <- "oEBi"
+	end
+

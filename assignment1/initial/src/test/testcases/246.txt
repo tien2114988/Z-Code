@@ -1,0 +1,10 @@
+func foo(number a, string b, bool b)begin
+        
+        
+        number a <- a
+        
+        
+        end
+        
+        
+        

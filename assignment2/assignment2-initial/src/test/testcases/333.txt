@@ -1,0 +1,2 @@
+number a <-  not a and -2 ... a != abc(3) 
+        

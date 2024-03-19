@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a), NumberType, None, ArrayCell(Id(a), [ArrayCell(Id(b), [ArrayCell(Id(c), [StringLit(toan), NumLit(2.0)]), BooleanLit(True)]), StringLit(tien)]))])
