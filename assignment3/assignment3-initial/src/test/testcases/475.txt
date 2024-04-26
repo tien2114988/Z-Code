@@ -1,0 +1,7 @@
+
+        func abc(number a[3,2]) begin
+        end
+        func main() begin
+            string a[3] <- ["tien","few"]
+        end
+        

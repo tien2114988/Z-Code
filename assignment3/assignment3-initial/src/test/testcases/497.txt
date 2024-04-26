@@ -1,0 +1,4 @@
+
+        func boo()
+        func main() return boo()
+        

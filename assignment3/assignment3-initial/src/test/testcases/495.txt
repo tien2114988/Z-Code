@@ -1,0 +1,24 @@
+
+        func foo(number a, string b)
+        func boo()
+        begin
+            dynamic a
+            dynamic b
+            dynamic c
+            dynamic d
+            if (a) begin
+                var a <- [[1]]
+                return a
+            end
+            elif (b) return c
+            else begin
+                d <- a and b
+                d <- c[0,0] != c[0,0]
+            end
+        end
+        func foo(number a, string b)begin
+            dynamic b 
+            return b
+        end 
+        func main() return
+        

@@ -1,0 +1,12 @@
+
+        bool k <- true
+        func abc(string c, bool b) begin
+            number a
+            var b <- a
+            dynamic c
+            a <- c
+            var d <- a + b + c - d % a / b * 2 + (-2)
+            k <- d > b
+            k <- d == k
+        end
+        

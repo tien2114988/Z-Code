@@ -1,0 +1,13 @@
+
+        bool k <- true
+        func abc(number e, number f) begin
+            bool a
+            var b <- a
+            dynamic c
+            a <- c
+            string str <- str ... "s"
+            dynamic str2 <- str 
+            var d <- str == str2
+            dynamic g <- str = str2
+        end
+        

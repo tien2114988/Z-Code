@@ -1,1 +1,1 @@
-aAsVN,3,<EOF>
+Redeclared Function: Id(foo)

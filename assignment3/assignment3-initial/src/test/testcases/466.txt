@@ -1,0 +1,8 @@
+
+        func abc(number a)
+
+        number a <- abc(7) + 1
+        func main() begin
+            abc(9)
+        end
+        

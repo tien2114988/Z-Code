@@ -1,0 +1,7 @@
+
+        func main() begin
+            number a[4]
+            var b <- [true, true, false, false]
+            a <- b
+        end
+        

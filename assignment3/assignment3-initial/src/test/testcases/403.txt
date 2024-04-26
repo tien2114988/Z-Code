@@ -1,0 +1,6 @@
+number a
+        func b(number a, number a)
+        func b(number a, number a)
+        begin 
+        end
+        

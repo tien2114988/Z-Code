@@ -1,0 +1,19 @@
+func foo()
+        begin
+            begin 
+            number a
+            a <- a+b
+            end 
+            if (a+c) 
+            begin
+            a[1,2] <- 4
+            end 
+            elif (a==b) 
+            abc()
+            else 
+            
+            abc[1,2] <- true + false
+        end
+        
+        
+        

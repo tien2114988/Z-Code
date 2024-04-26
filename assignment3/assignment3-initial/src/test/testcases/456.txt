@@ -1,0 +1,16 @@
+
+        func foo()
+        func main()begin
+            dynamic i
+            dynamic a
+            number c
+            string b
+            for i until foo() by a
+                i <- c
+            var e <- foo() and (i = c)
+            for i until foo() by e
+            return
+        end
+        func foo()begin
+        end
+        

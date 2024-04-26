@@ -1,0 +1,10 @@
+
+        func main()
+        func cd()
+        func abc(string c, bool b) begin
+            bool b
+            begin 
+                dynamic c <- readNumber()
+            end
+        end
+        

@@ -1,0 +1,7 @@
+
+        func main() begin
+            var b <- [true, true, false, false]
+            dynamic c <- b
+            c <- [true, false, false, false]
+        end
+        

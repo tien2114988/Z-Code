@@ -1,0 +1,16 @@
+
+        func foo(number a)
+        dynamic b
+        dynamic c
+        func foo(number a)begin
+            if (b==c)
+            return b
+            elif ("tie" ... "g")
+            return c
+            else
+            return a
+        end
+        func main()begin
+            number a <- foo(1)
+        end
+        

@@ -1,0 +1,12 @@
+
+        bool k <- true
+        func abc(number e, number f) begin
+            bool a
+            var b <- a
+            dynamic c
+            a <- c
+            var d <- not a and b or c and not d or (e <= f)
+            k <- not d
+            dynamic g <- g
+        end
+        

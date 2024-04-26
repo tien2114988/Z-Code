@@ -1,0 +1,7 @@
+
+        func main()
+            begin
+                dynamic num <- (- num != 3) and (num > num)
+            end
+        end
+        

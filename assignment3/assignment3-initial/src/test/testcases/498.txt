@@ -1,0 +1,8 @@
+
+        func boo(number a)
+        func main() begin
+            dynamic b
+            boo(boo(b))
+            b <- boo(b)
+        end
+        

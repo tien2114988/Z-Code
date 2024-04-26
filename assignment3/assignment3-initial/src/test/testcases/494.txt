@@ -1,0 +1,15 @@
+
+        func foo(number a, string b)
+        func boo()
+        func main()
+        begin
+            dynamic a <- [[3,4,8],[4,6,7]]
+            dynamic b
+            dynamic c
+            var d <- a[b,foo(c, "c")]
+        end
+        func foo(number a, string b)begin
+            dynamic c
+            c <- boo()
+        end
+        

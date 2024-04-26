@@ -1,0 +1,9 @@
+
+        func main() begin
+            dynamic b
+            var a <- b + 1
+            number c <- a - b
+            dynamic e
+            e <- (e=="tien") and (e + 2)
+        end
+        

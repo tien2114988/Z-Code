@@ -1,0 +1,12 @@
+
+        number a <- 2
+        string c <- "ti"
+        func a(number a, string b)begin
+        end
+
+        func main() begin 
+            var a <- a(a + 1 -4 ,c)
+            number c <- a
+        end
+
+        

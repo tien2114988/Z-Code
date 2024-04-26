@@ -1,0 +1,12 @@
+
+        func foo(number a)
+        dynamic b
+        number a <- foo(2)
+        func foo(number a)begin
+            return b
+        end
+        func main()begin
+            number k <- b
+        end
+
+        

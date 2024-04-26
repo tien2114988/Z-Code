@@ -1,0 +1,9 @@
+
+        bool a <- true
+        func abc(string a) begin
+        number a <- 3
+        end
+        func main()begin
+        return
+        end
+        

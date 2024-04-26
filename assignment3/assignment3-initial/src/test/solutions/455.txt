@@ -1,0 +1,1 @@
+Type Mismatch In Statement: For(Id(i), BinaryOp(>, Id(a), NumLit(2.0)), Id(a), AssignStmt(Id(b), BinaryOp(..., Id(a), StringLit(tien))))

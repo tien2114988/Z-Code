@@ -1,0 +1,1 @@
+Type Mismatch In Statement: If((BinaryOp(==, Id(b), Id(c)), Return(Id(b))), [(BinaryOp(..., StringLit(tie), StringLit(g)), Return(Id(c)))], Return(Id(a)))

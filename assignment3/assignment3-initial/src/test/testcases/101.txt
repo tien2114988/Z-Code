@@ -1,1 +1,5 @@
-'Yanxi Palace - 2018'
+
+            func foo(number a, string a)
+            func foo(number a, string a) return 
+            func main() return
+        

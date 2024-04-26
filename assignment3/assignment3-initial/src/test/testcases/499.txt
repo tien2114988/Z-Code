@@ -1,0 +1,9 @@
+
+        func boo(string a)
+        func main() begin
+            dynamic b
+            b <- boo(boo(b))
+            b <- boo(b)
+        end
+        func boo(string a) return a
+        

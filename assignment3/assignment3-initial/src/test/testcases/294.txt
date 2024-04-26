@@ -1,0 +1,4 @@
+func main() begin
+        string s <- "abc\ioao"
+        end
+        

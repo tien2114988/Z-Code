@@ -1,0 +1,4 @@
+
+        bool a <- true
+        func a() return a[1,1]
+        

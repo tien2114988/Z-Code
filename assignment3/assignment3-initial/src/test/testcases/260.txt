@@ -1,0 +1,15 @@
+func foo()
+        begin
+            elif (a+c) 
+            
+            a[1,2] <- 4
+            
+            elif (a==b) 
+            abc()
+            else 
+            
+            abc()[1,2] <- true + false
+        end
+        
+        
+        

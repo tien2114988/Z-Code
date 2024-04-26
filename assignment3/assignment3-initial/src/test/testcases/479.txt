@@ -1,0 +1,11 @@
+
+        func foo(number a)
+        func foo(number a)begin
+            begin
+            end
+        end
+        func main()begin
+            number a <- foo(1)
+        end
+
+        

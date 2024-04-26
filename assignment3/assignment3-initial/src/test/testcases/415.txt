@@ -1,0 +1,18 @@
+
+        string a <- "2"
+        func abc(string c, bool b) begin
+            number e
+            begin 
+                number k
+                begin
+                    begin
+                        a <- a ... "ee"
+                    end
+                end
+                return e
+            end 
+            begin 
+                return k
+            end
+        end
+        

@@ -1,0 +1,9 @@
+
+        func foo(number x[2,3,4], string y[1,1,1])
+
+        func foo(number x[2,3,4], string k[1,1,1]) 
+            begin
+                dynamic c
+            end
+        func main() return
+        

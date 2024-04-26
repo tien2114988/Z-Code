@@ -1,0 +1,6 @@
+
+        func abc(number a) return
+        func main() begin
+            abc(9)
+        end
+        

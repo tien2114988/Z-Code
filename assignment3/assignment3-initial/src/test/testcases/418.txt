@@ -1,0 +1,11 @@
+
+        func main ()                                       
+        begin                                                   
+            var i <- 1                                                     
+            for i until i < 3 by 1  
+            begin                               
+                var x<-1                                                
+            end
+            var y<- x                                               
+        end                                                         
+        

@@ -1,0 +1,22 @@
+
+        func foo(number a)
+        dynamic b
+        dynamic c
+        number a <- foo(2)
+        func foo(number a)begin
+            begin
+                return b
+            end
+            begin
+                return c
+            end
+            begin 
+                bool k <- b>c
+                begin 
+                    return k
+                end
+            end
+        end
+        func main()begin
+        end
+        

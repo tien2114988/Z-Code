@@ -1,0 +1,7 @@
+
+        bool a <- true
+        func a(number a, number b) return a
+
+        func main() return a()
+
+        

@@ -1,0 +1,7 @@
+
+        bool a[2,2] <- [[true,true],[false,true]]
+        func a() return a[2+1,1]
+        func main()begin
+            dynamic a<- a()
+        end
+        

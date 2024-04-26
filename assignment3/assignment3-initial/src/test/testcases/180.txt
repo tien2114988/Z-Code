@@ -1,0 +1,3 @@
+ngd(a["tien",12,bcd()],23,true,false,"tieh\i)
+            end
+            ## diatie 

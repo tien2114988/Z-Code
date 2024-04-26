@@ -1,0 +1,4 @@
+
+        bool a <- true
+        func main(string c, bool b) return a and b
+        

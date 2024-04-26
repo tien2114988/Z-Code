@@ -1,0 +1,8 @@
+
+        func abc(number a, bool b) begin
+        end
+        func main() begin
+            dynamic a
+            abc(a, a > a)
+        end
+        

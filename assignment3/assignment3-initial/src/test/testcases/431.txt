@@ -1,0 +1,7 @@
+
+        func main()
+            begin
+                var num <- (- num != 3) and (num > num)
+            end
+        end
+        

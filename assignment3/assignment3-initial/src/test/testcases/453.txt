@@ -1,0 +1,24 @@
+
+        func foo(string a)
+        dynamic b
+        dynamic c
+        dynamic f
+        func foo(string a)begin
+            if (b>c)
+            begin
+                return a
+            end
+            elif (b<c)
+            begin
+                return f
+            end
+            else
+            begin
+                f <- b + c
+            end
+        end
+        func main()begin
+            number a <- foo("1")
+        end
+
+        

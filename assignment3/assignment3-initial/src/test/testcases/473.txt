@@ -1,0 +1,8 @@
+
+        func abc(number a[3,2]) begin
+        end
+        func main() begin
+            number a <- ("tien" == "pd")
+            abc(a)
+        end
+        

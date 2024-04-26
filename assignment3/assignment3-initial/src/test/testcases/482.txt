@@ -1,0 +1,8 @@
+
+        func foo() begin
+            return ["4","5","6"]
+        end
+        func main() begin
+            number a[3] <- foo()
+        end
+        

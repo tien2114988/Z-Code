@@ -1,0 +1,11 @@
+
+        func main() begin
+            number num
+            dynamic num2 <- num
+            var boo <- num = num2
+            dynamic num3
+            dynamic str 
+            string str2 <- str
+            boo <- (num != num2) and (num < num3) or (num2 > num) and not (num >= num2) or (num <= num3) and (str == str2)
+        end
+        

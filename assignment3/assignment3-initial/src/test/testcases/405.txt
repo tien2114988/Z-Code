@@ -1,0 +1,14 @@
+
+        var a <- "tien"
+        func main() begin
+            number a <- 3
+            string b
+            begin
+                bool b
+                begin 
+                    number b
+                end
+            end
+        end
+        number b
+        

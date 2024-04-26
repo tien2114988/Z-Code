@@ -1,0 +1,24 @@
+
+        func boo(number c) return "tien"
+        func foo(string a)
+        dynamic b
+        dynamic c
+        dynamic f
+        func foo(string a)begin
+            if (b>c)
+            begin
+                return a
+            end
+            elif (b<c)
+            begin
+                return f
+            end
+            else
+            begin
+                for b until b!=c by b = c
+                return
+            end
+        end
+        func main()begin
+        end
+        

@@ -1,0 +1,4 @@
+
+        bool a <- true
+        func main() return a
+        

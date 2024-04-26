@@ -1,0 +1,9 @@
+
+        func foo()begin
+        end
+        func main()begin
+            dynamic i
+            for i until 2>3 by 2
+            break
+        end
+        

@@ -1,0 +1,10 @@
+
+        func main()begin
+            string i
+            dynamic a
+            string b
+            for i until a>2 by a
+                b <- a ... "tien"
+        end
+
+        

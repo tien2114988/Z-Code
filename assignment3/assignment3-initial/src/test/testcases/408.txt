@@ -1,0 +1,6 @@
+
+        dynamic main <- 2
+        func main() begin
+            writeNumber(main)
+        end
+        

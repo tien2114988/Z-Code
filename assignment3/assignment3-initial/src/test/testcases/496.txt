@@ -1,0 +1,16 @@
+
+        func boo()
+        begin
+            dynamic a
+            dynamic b
+            dynamic c
+            dynamic d
+            for a until b by c
+            begin
+                var d <- a > c 
+                var e <- d or b
+            end
+            return d
+        end
+        func main() return
+        
